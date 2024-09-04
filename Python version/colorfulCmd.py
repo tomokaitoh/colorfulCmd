@@ -150,7 +150,7 @@ def loadImage():
 
 
 # 程序入口
-if __name__ == "__main_":
+if __name__ == "__main__":
   
   enableVTMode()
   pixels, width, height = loadImage()
