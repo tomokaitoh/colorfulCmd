@@ -3,7 +3,7 @@
 
 ### 运行方法
 #### C version（C语言版本）: 
-下载 `furina.bmp` 和 `colorfulCmd.exe` 到同一个目录，运行 `colorful.exe` 即可。  
+下载 `furina.bmp` 和 `colorfulCmd.exe` 到同一个目录，运行 `colorfulCmd.exe` 即可。  
 
 或者下载 `colorfulCmd.c` 自行编译:
    ```bash
