@@ -81,7 +81,7 @@ int main(int argc, char *argv[]){
 
             // printf("\033[5m");  // 闪烁效果
             // printf("\033[1m");  // 高亮度
-            printf("\033[48;2;%d;%d;%dm", pixel.R, pixel.G, pixel.B);  // 设置文本背景色
+            // printf("\033[48;2;%d;%d;%dm", pixel.R, pixel.G, pixel.B);  // 设置文本背景色
 
             printf("\033[38;2;%d;%d;%dm", pixel.R, pixel.G, pixel.B);  // 设置前景色(文本颜色)
 
